@@ -11,4 +11,4 @@ CREATE TABLE users(
 CREATE DATABASE sample;
 --sudo mysql -u rooo -p sample < examples.sql
 --4. db_2_6.jpg
-sudo mysqldump -u root -p --opt --where="1 limit 100" mysql help_keyword  > help_keyword_100.sql
+SYSTEM sudo mysqldump -u root -p --opt --where="1 limit 100" mysql help_keyword  > help_keyword_100.sql
