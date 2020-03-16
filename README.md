@@ -1,2 +1,2 @@
-# geeckbrains_date_base
+# geeckbrains_data_base
 ДЗ по базам данных
